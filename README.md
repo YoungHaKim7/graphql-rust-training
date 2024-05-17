@@ -13,3 +13,6 @@
      
 - cynic
   - https://github.com/obmarg/cynic
+
+# GraphQL] graphQL은 왜 사용하는 것일까?
+- https://s0ojin.tistory.com/m/70
